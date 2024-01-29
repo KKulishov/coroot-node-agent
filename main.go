@@ -74,6 +74,7 @@ func machineID() string {
 		klog.Infoln("machine-id: ", id)
 		return id
 	}
+
 	return ""
 }
 
