@@ -4,9 +4,9 @@ name: Docker Image
 #  release:
 #    types: [created]
 
-
 #https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
 #https://docs.github.com/en/actions/learn-github-actions/environment-variables
+# https://github.com/marketplace/actions/docker-metadata-action#typesemver
 # ручной запуск
 on: [workflow_dispatch]
 
